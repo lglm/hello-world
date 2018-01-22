@@ -1,2 +1,3 @@
 # hello-world
-smalll code to make a introduction
+smalll code to make an introduction
+first log on file
